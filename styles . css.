@@ -1,0 +1,109 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.cta-button {
+    background-color: #ff5733;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.cta-button:hover {
+    background-color: #e04e2c;
+}
+
+/* About Section */
+.about {
+    padding: 40px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2.5rem;
+}
+
+.about p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Services Section */
+.services {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 2.5rem;
+}
+
+.service-item {
+    margin: 20px 0;
+}
+
+.service-item h3 {
+    font-size: 1.8rem;
+    color: #0044cc;
+}
+
+/* Contact Section */
+.contact {
+    padding: 40px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+}
+
+.contact p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+/* Footer Section */
+footer {
+    background-color: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
