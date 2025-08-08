@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Powar Technology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Powar Technology</h1>
+            <p>Innovating with new tech ideas</p>
+            <a href="#contact" class="cta-button">Contact Us</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <h2>About Powar Technology</h2>
+        <p>Powar Technology is dedicated to exploring and developing new technology ideas that can shape the future. We work with a range of industries to bring innovative solutions to life.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <h2>Our Technologies</h2>
+        <div class="service-item">
+            <h3>Innovative Solutions</h3>
+            <p>We provide cutting-edge technology solutions to help businesses thrive in the digital world.</p>
+        </div>
+        <div class="service-item">
+            <h3>Research & Development</h3>
+            <p>Our team is constantly researching and experimenting with new ideas to stay ahead of the curve.</p>
+        </div>
+        <div class="service-item">
+            <h3>Consulting Services</h3>
+            <p>We offer consulting to guide companies through the tech landscape and implement the right solutions.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2>Get In Touch</h2>
+        <p>If you’re ready to take the next step or just want to learn more, feel free to reach out to us.</p>
+        <p>Email us at: <a href="mailto:contact@powartech.com">contact@powartech.com</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Powar Technology | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
